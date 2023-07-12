@@ -1,0 +1,30 @@
+a:link{
+
+    color: gold;
+}
+a:visited{
+
+    color: coral;
+}
+a:hover{
+
+    color: darkslategrey;
+}
+a:active{
+    color: khaki;
+}
+button:hover{
+
+    background-color:indianred;
+
+}
+button:active{
+
+    background-color: darkcyan;
+}
+h1{
+    text-shadow: 5px 5px 5px gray;
+}
+p{
+    box-shadow: 5px 5px 3px gray;
+}

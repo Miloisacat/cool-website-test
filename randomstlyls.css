@@ -1,0 +1,20 @@
+.fa-car{
+    color: brown;
+}
+#box1{
+    border: 15px;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+    font-size: 150px;
+    text-align: center;
+    background-color: fuchsia;
+
+    animation: slide;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+}
+@keyframes slide{
+    from{margin-top: 100%;}
+    to{margin-bottom: 0%;}
+}

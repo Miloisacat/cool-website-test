@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    color: blue;
+    font-style: italic;
+    background: linear-gradient(to right,skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+    
+    
+}
+#titlething{
+    color: brown;
+    font-family: Fasthand, Akatab;
+    font-size: 54px;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-width: 5px;
+}
+p{
+    border-style: outset;
+    border-color: gold;
+    border-width: 5px;
+    padding: 7px;
+
+
+}

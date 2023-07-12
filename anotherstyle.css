@@ -1,0 +1,21 @@
+.box{
+    width:450px;
+    height: 150px;
+    border: 2px solid;
+    font-size: 50px;
+    background-color: aqua;
+
+    position: sticky;
+
+
+    top: 350px;
+    left: 150px;
+
+
+
+
+
+}
+p{
+    font-size: 30px;
+}
